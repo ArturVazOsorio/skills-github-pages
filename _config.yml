@@ -4,7 +4,6 @@ description: "testing how github pages work."
 author: "ArturAntela"
 
 # Build Settings
-theme: minima
 timezone: Europe/Lisbon
 future: true
 plugins:
