@@ -5,6 +5,8 @@ author: "ArturAntela"
 
 # Build Settings
 theme: minima
+timezone: Europe/Lisbon
+future: true
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
