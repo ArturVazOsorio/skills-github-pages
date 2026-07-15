@@ -1,3 +1,14 @@
-title: 42 Blog
-description: testing how github pages work.
-author: ArturAntela
+# Site Settings
+title: "42 Blog"
+description: "testing how github pages work."
+author: "ArturAntela"
+
+# Build Settings
+theme: minima
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag # Helps with SEO and social media preview cards
+
+# Optional but recommended
+# url: "https://yourusername.github.io" # Replace with your GitHub Pages URL
+# baseurl: "/repository-name" # Leave empty "" if this is a user page (username.github.io)
