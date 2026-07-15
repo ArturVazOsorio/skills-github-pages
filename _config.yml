@@ -9,5 +9,5 @@ future: true
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
-
+  - faraday-retry
 
