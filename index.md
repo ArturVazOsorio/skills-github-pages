@@ -1,5 +1,10 @@
 ---
-title   Home
-Welcome to my 42 piscine blog !
+layout: default
+title: "Welcome to my 42 Blog"
 ---
-teste
+
+# Hello World!
+
+Welcome to my testing space for GitHub Pages. 
+
+Check out my latest posts!
